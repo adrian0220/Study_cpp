@@ -34,3 +34,9 @@
   10) 디폴트 파라미터<br/>
   [Link](https://github.com/adrian0220/Study_cpp/blob/main/1.%20C%2B%2B%20%EA%B0%9C%EC%9A%94/10.%20%EB%94%94%ED%8F%B4%ED%8A%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
   <br/><br/>
+  11. String 타입<br/>
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/1.%20C%2B%2B%20%EA%B0%9C%EC%9A%94/11.%20String%20%ED%83%80%EC%9E%85.md)
+  <br/><br/>
+  12. new 와 delete 연산자<br/>
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/1.%20C%2B%2B%20%EA%B0%9C%EC%9A%94/12.%20new%20%EC%99%80%20delete%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+  <br/><br/>
