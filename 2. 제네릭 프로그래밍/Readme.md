@@ -16,6 +16,6 @@
   [Link](https://github.com/adrian0220/Study_cpp/blob/main/2.%20%EC%A0%9C%EB%84%A4%EB%A6%AD%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%233.%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
   <br/><br/>
 
-  4) 법위 기반 for 문<br/>
+  4) 범위 기반 for 문<br/>
   [Link]()
   <br/><br/>
