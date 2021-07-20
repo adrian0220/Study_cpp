@@ -5,7 +5,7 @@
  <br/>
    
   1) OOP 개요 및 클래스 선언<br/>
-  [Link](https://github.com/adrian0220/Study_cpp/blob/main/3.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%231.%20OOP%20%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%84%A0%EC%96%B8.md)
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/3.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%231.%20OOP%EC%99%80%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%84%A0%EC%96%B8.md)
   <br/><br/>
 
   2) 추상화<br/>
