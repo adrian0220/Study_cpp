@@ -1,4 +1,4 @@
-# 3. 객체 지행 프로그래밍 (Class Oriented Programming)
+# 3. 객체 지향 프로그래밍 (Class Oriented Programming)
 
 ### 목차
    
