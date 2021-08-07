@@ -9,30 +9,20 @@
   <br/><br/>
 
   2) 추상화<br/>
-  [Link]()
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/3.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%232.%20%EC%B6%94%EC%83%81%ED%99%94.md)
   <br/><br/>
-  https://rehtorb-algorithm.tistory.com/2 클래스 사용 예제<br/>
-  https://wikidocs.net/16468#3-inline-runtime-error 파일 입력 방법 <br/>
-  https://wikidocs.net/18948 클래스 배열과 this 포인터  <br/>
-  생성자, 소멸자, static, 복사 생성자 <br/>
-  <br/>
   
   3) 캡슐화<br/>
-  [Link]()
-  https://wikidocs.net/17144 <br/>
-  프렌드, 정적 멤버<br/>
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/3.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%233.%20%EC%BA%A1%EC%8A%90%ED%99%94.md)
   <br/><br/>
   
   4) 정보 은닉<br/>
-  [Link]()
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/3.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%234.%20%EC%A0%95%EB%B3%B4%20%EC%9D%80%EB%8B%89.md)
   <br/><br/>
-  https://wikidocs.net/14029 정보 은닉 개념<br/>
-  https://wikidocs.net/14029 private, public 개념 (접근제어)<br/>
   
   5) 다형성<br/>
-  [Link]()
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/3.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%235.%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
   <br/><br/>
-  가상함수, 추상 클래스, 연산자 오버로딩<br/>
   
   6) 상속성<br/>
   [Link]()
