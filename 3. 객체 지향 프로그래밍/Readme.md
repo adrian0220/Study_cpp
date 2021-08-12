@@ -25,7 +25,13 @@
   <br/><br/>
   
   6) 상속성<br/>
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/3.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%236.%20%EC%83%81%EC%86%8D.md)
+  <br/><br/>
+  
+  7) is-a 및 has-a 관계<br/>
+  [Link](https://github.com/adrian0220/Study_cpp/blob/main/3.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%237.%20is-a%20%EB%B0%8F%20has-a%20%EA%B4%80%EA%B3%84.md)
+  <br/><br/>
+  
+   8) 템플릿 클래스<br/>
   [Link]()
   <br/><br/>
-  https://wikidocs.net/14017 상속 개념<br/>
-  다형성과의 연계<br/>
