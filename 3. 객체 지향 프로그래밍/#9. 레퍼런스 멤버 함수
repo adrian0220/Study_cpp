@@ -1,0 +1,101 @@
+# 9. 레퍼런스 멤버 함수
+
+<br/>
+<br/>
+
+
+## 1) 상수 클래스(Constant Class)란?
+
+<br/>
+
+클래스 역시 상수로 선언할 수 있다. <br/>
+클래스를 상수로 선언하기 위해서 'const' 키워드를 사용한다. <br/>
+
+<br/>
+
+아래와 같은 시간 클래스가 있다고 하자. <br/>
+
+<br/>
+
+```c++
+class Time
+{
+private:
+	int hour;
+	int minute;
+	int second;
+	
+public:
+	Time(int hour_, int minute_, int second_){
+		hour = hour_;
+		minute = minute_;
+		second = second_;
+	}
+
+	int getHour() { return hour; }
+	int getMinute() { return minute; }
+	int getSecond() { return second; }
+	
+};
+```
+
+<br/>
+
+위 클래스를 상수로 선언하게 되면 해당 인스턴스에 대한 수정은 불가능하다.<br/>
+
+<br/>
+
+```c++
+const Time time_1(4,12,8);
+```
+
+<br/>
+
+이렇게 선언하는 경우 time_1 객체에 대한 값 변경을 하는 경우 컴파일 에러가 발생 한다. <br/>
+
+<br/>
+
+```c++
+#include <iostream>
+using namespace std;
+
+class Time
+{
+private:
+	int hour;
+	int minute;
+	int second;
+	
+public:
+	Time(int hour_, int minute_, int second_){
+		hour = hour_;
+		minute = minute_;
+		second = second_;
+	}
+
+	int getHour() { return hour; }
+	int getMinute() { return minute; }
+	int getSecond() { return second; }
+	
+};
+
+int main() {
+	
+	Time time_1(4,12,8);
+	
+	cout << time_1.getHour() << ":" << time_1.getMinute() 
+	<< ":" << time_1.getSecond() << endl;
+	
+	return 0;
+}
+```
+
+<br/>
+
+__출력 결과__
+
+<br/>
+
+> 4:12:8
+
+<br/>
